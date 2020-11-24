@@ -25,6 +25,8 @@
         --pages/log
         存放日志文件
         
+        --test
+        homeGit
 
         
         
